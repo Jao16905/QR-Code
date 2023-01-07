@@ -55,4 +55,4 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Frontend Mentor - [Jao16905](https://www.frontendmentor.io/profile/Jao16905)
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
